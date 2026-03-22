@@ -171,6 +171,3 @@ This page provides **transaction-level data for detailed analysis**.
 - DAX  
 - Data Modelling  
 
----
-
-# 📁 Project Structure
